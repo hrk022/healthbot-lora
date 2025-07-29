@@ -1,0 +1,8 @@
+transformers
+torch
+peft
+gradio
+huggingface_hub
+python-dotenv
+bitsandbytes
+streamlit
